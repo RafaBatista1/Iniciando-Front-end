@@ -1,6 +1,6 @@
-# Front-End-Projects
-My results of my studies on front end
+# Projetos front-end
+Resultados dos meus estudos em HTML, CSS e JavaScript
 
-To view the results, just open the "index.html" in any files.
+Para visualizar os Projetos, basta abrir o "index.html" em qualquer arquivo.
 
-Any doubts here's my email: rafaelbatista4477@gmail.com
+Qualquer dúvida meu email: rafaelbatista4477@gmail.com
